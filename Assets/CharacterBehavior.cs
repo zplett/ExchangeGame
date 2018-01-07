@@ -92,4 +92,5 @@ public class CharacterBehavior : MonoBehaviour {
 		Debug.Log ("yeah");
 		Move ();
 	}
+
 }
