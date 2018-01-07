@@ -88,8 +88,10 @@ public class CharacterBehavior : MonoBehaviour {
 	}
 
 
-	void FixedUpdate(){
+	void FixedUpdate() {
 		Debug.Log ("yeah");
 		Move ();
-	}
+
+  }
+
 }
